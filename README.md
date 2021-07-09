@@ -1,2 +1,2 @@
 # data_structures_algorithms
-Contains all implemented data structures and algorithms for my class.
+Contains all of the data structures and algorithms I implemented from scratch.
